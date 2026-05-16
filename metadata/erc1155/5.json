@@ -1,0 +1,11 @@
+{
+  "name": "Void Warlock",
+  "description": "A dark warlock drawing power from the void. Legendary tier.",
+  "image": "ipfs://QmPlaceholder/char5.png",
+  "attributes": [
+    { "trait_type": "Color",    "value": "Deep Violet" },
+    { "trait_type": "Speed",    "display_type": "number", "value": 50 },
+    { "trait_type": "Strength", "display_type": "number", "value": 98 },
+    { "trait_type": "Rarity",   "value": "Legendary" }
+  ]
+}

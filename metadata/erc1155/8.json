@@ -1,0 +1,11 @@
+{
+  "name": "Thunder Monk",
+  "description": "A disciplined monk channeling thunderous ki. Epic tier.",
+  "image": "ipfs://QmPlaceholder/char8.png",
+  "attributes": [
+    { "trait_type": "Color",    "value": "Golden Yellow" },
+    { "trait_type": "Speed",    "display_type": "number", "value": 88 },
+    { "trait_type": "Strength", "display_type": "number", "value": 78 },
+    { "trait_type": "Rarity",   "value": "Epic" }
+  ]
+}

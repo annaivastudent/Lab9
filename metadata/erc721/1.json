@@ -1,0 +1,12 @@
+{
+  "name": "Student Visit Card #1 - Hanna Ivanova",
+  "description": "Soulbound student visit card. Non-transferable.",
+  "image": "ipfs://QmPlaceholder/card1.png",
+  "attributes": [
+    { "trait_type": "Student Name", "value": "Hanna Ivanova" },
+    { "trait_type": "Student ID",   "value": "STU-23-HO" },
+    { "trait_type": "Course",       "value": "Computer Science" },
+    { "trait_type": "Year",         "display_type": "number", "value": 3 },
+    { "trait_type": "Type",         "value": "Soulbound" }
+  ]
+}

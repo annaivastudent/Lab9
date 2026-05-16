@@ -1,0 +1,11 @@
+{
+  "name": "Blood Berserker",
+  "description": "A frenzied berserker whose strength grows with wounds. Epic tier.",
+  "image": "ipfs://QmPlaceholder/char9.png",
+  "attributes": [
+    { "trait_type": "Color",    "value": "Scarlet Red" },
+    { "trait_type": "Speed",    "display_type": "number", "value": 75 },
+    { "trait_type": "Strength", "display_type": "number", "value": 99 },
+    { "trait_type": "Rarity",   "value": "Epic" }
+  ]
+}

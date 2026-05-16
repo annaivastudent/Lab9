@@ -1,0 +1,11 @@
+{
+  "name": "Storm Archer",
+  "description": "An agile archer channeling storm energy. Rare tier.",
+  "image": "ipfs://QmPlaceholder/char4.png",
+  "attributes": [
+    { "trait_type": "Color",    "value": "Electric Blue" },
+    { "trait_type": "Speed",    "display_type": "number", "value": 85 },
+    { "trait_type": "Strength", "display_type": "number", "value": 65 },
+    { "trait_type": "Rarity",   "value": "Rare" }
+  ]
+}

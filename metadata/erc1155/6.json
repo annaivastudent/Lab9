@@ -1,0 +1,11 @@
+{
+  "name": "Nature Druid",
+  "description": "A druid channeling the healing power of nature. Uncommon tier.",
+  "image": "ipfs://QmPlaceholder/char6.png",
+  "attributes": [
+    { "trait_type": "Color",    "value": "Emerald Green" },
+    { "trait_type": "Speed",    "display_type": "number", "value": 70 },
+    { "trait_type": "Strength", "display_type": "number", "value": 72 },
+    { "trait_type": "Rarity",   "value": "Uncommon" }
+  ]
+}

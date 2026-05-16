@@ -1,0 +1,11 @@
+{
+  "name": "Light Seraph",
+  "description": "A celestial seraph protecting the mortal realm. Legendary tier.",
+  "image": "ipfs://QmPlaceholder/char10.png",
+  "attributes": [
+    { "trait_type": "Color",    "value": "Radiant White" },
+    { "trait_type": "Speed",    "display_type": "number", "value": 65 },
+    { "trait_type": "Strength", "display_type": "number", "value": 85 },
+    { "trait_type": "Rarity",   "value": "Legendary" }
+  ]
+}

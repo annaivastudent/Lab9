@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Rogue",
+  "description": "A swift rogue who strikes from darkness. Rare tier.",
+  "image": "ipfs://QmPlaceholder/char1.png",
+  "attributes": [
+    { "trait_type": "Color",    "value": "Obsidian Black" },
+    { "trait_type": "Speed",    "display_type": "number", "value": 92 },
+    { "trait_type": "Strength", "display_type": "number", "value": 55 },
+    { "trait_type": "Rarity",   "value": "Rare" }
+  ]
+}

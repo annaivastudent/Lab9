@@ -1,0 +1,11 @@
+{
+  "name": "Fire Mage",
+  "description": "A powerful mage who commands flame spells. Epic tier.",
+  "image": "ipfs://QmPlaceholder/char2.png",
+  "attributes": [
+    { "trait_type": "Color",    "value": "Crimson Red" },
+    { "trait_type": "Speed",    "display_type": "number", "value": 60 },
+    { "trait_type": "Strength", "display_type": "number", "value": 88 },
+    { "trait_type": "Rarity",   "value": "Epic" }
+  ]
+}

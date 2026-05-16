@@ -1,0 +1,11 @@
+{
+  "name": "Frost Paladin",
+  "description": "A holy paladin wielding ice and divine light. Rare tier.",
+  "image": "ipfs://QmPlaceholder/char7.png",
+  "attributes": [
+    { "trait_type": "Color",    "value": "Ice White" },
+    { "trait_type": "Speed",    "display_type": "number", "value": 55 },
+    { "trait_type": "Strength", "display_type": "number", "value": 90 },
+    { "trait_type": "Rarity",   "value": "Rare" }
+  ]
+}
